@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume-project/static/css/main.968ec6cc.css",
+    "main.js": "/resume-project/static/js/main.a3f10dc3.js",
+    "static/media/pexels-markus-winkler.jpg": "/resume-project/static/media/pexels-markus-winkler.5a71c5b422e045d343ab.jpg",
+    "index.html": "/resume-project/index.html",
+    "main.968ec6cc.css.map": "/resume-project/static/css/main.968ec6cc.css.map",
+    "main.a3f10dc3.js.map": "/resume-project/static/js/main.a3f10dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968ec6cc.css",
+    "static/js/main.a3f10dc3.js"
+  ]
+}
